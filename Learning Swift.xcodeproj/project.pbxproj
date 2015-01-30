@@ -26,6 +26,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		08471CDF19D0D06400F03FEE /* Loops.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Loops.playground; sourceTree = "<group>"; };
+		08471CE019D0DAF900F03FEE /* WhileLoops.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = WhileLoops.playground; sourceTree = "<group>"; };
 		08DD9CCC19CB93D700DDB098 /* Learning Swift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Learning Swift.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		08DD9CD019CB93D700DDB098 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		08DD9CD119CB93D700DDB098 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -36,6 +38,9 @@
 		08DD9CE119CB93D800DDB098 /* Learning SwiftTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Learning SwiftTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		08DD9CE619CB93D800DDB098 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		08DD9CE719CB93D800DDB098 /* Learning_SwiftTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Learning_SwiftTests.swift; sourceTree = "<group>"; };
+		08DD9CF119CB944600DDB098 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
+		08DD9CF619CBA08A00DDB098 /* ArraysDictionaries.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ArraysDictionaries.playground; sourceTree = "<group>"; };
+		08DD9CF719CCC4BA00DDB098 /* ifStatements.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ifStatements.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +64,11 @@
 		08DD9CC319CB93D700DDB098 = {
 			isa = PBXGroup;
 			children = (
+				08DD9CF119CB944600DDB098 /* MyPlayground.playground */,
+				08DD9CF619CBA08A00DDB098 /* ArraysDictionaries.playground */,
+				08DD9CF719CCC4BA00DDB098 /* ifStatements.playground */,
+				08471CDF19D0D06400F03FEE /* Loops.playground */,
+				08471CE019D0DAF900F03FEE /* WhileLoops.playground */,
 				08DD9CCE19CB93D700DDB098 /* Learning Swift */,
 				08DD9CE419CB93D800DDB098 /* Learning SwiftTests */,
 				08DD9CCD19CB93D700DDB098 /* Products */,
@@ -399,6 +409,7 @@
 				08DD9CED19CB93D800DDB098 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		08DD9CEE19CB93D800DDB098 /* Build configuration list for PBXNativeTarget "Learning SwiftTests" */ = {
 			isa = XCConfigurationList;
@@ -407,6 +418,7 @@
 				08DD9CF019CB93D800DDB098 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
